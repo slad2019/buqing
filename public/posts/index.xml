@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 不轻——随写</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on 不轻——随写</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 13 May 2024 13:13:07 +0800</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好，世界！</title>
+      <link>https://example.org/posts/hello-world/</link>
+      <pubDate>Mon, 13 May 2024 13:13:07 +0800</pubDate>
+      <guid>https://example.org/posts/hello-world/</guid>
+      <description>介绍 This is 粗体 text, and this is 强调 text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
