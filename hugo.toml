@@ -1,7 +1,9 @@
 baseURL = 'https://slad2019.github.com/buqing/'
+hasCJKLanguage = true
 languageCode = 'zh-cn'
 title = '不轻——随写'
 theme = 'fuji'
+
 
 [module]
   [[module.mounts]]
