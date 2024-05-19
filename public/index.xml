@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>不轻——随写</title>
-    <link>https://slad2019.github.com/buqing/</link>
+    <link>http://localhost:1313/buqing/</link>
     <description>Recent content on 不轻——随写</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 19 May 2024 16:48:25 +0800</lastBuildDate>
-    <atom:link href="https://slad2019.github.com/buqing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/buqing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>木村肥佐生 - 中</title>
-      <link>https://slad2019.github.com/buqing/posts/04-hisao-kimura-2/</link>
+      <link>http://localhost:1313/buqing/posts/04-hisao-kimura-2/</link>
       <pubDate>Sun, 19 May 2024 16:48:25 +0800</pubDate>
-      <guid>https://slad2019.github.com/buqing/posts/04-hisao-kimura-2/</guid>
+      <guid>http://localhost:1313/buqing/posts/04-hisao-kimura-2/</guid>
       <description>&lt;p&gt;虽然这本书本身动人之处不多。但是木村这本书的“尾声”一节却是颇有意思。其一，他讲述了诸多书中人物后来的结局；其二，他从另一个角度来评论中国共产党在西藏的执政；其三，他站在一个战争参与者的角度反思了日本在东亚战争中的角色，同时点评了当时（1990年）日本人的情况。&lt;/p&gt;</description>
     </item>
     <item>
       <title>木村肥佐生 - 上</title>
-      <link>https://slad2019.github.com/buqing/posts/03-hisao-kimura-1/</link>
+      <link>http://localhost:1313/buqing/posts/03-hisao-kimura-1/</link>
       <pubDate>Sun, 19 May 2024 16:20:20 +0800</pubDate>
-      <guid>https://slad2019.github.com/buqing/posts/03-hisao-kimura-1/</guid>
+      <guid>http://localhost:1313/buqing/posts/03-hisao-kimura-1/</guid>
       <description>&lt;p&gt;前段时间去了趟日本。在飞机上准备了一本一直想读的书，&lt;em&gt;Japanese Agent in Tibet&lt;/em&gt;。木村肥佐生堪称史上最倒霉的特工了，数次在任务中间失去了雇主（雇佣国）。他的故事有意思，但是史料价值并不高。我分三部分来讲述有关这本专辑的故事。&lt;/p&gt;</description>
     </item>
     <item>
       <title>寻访北魏六镇</title>
-      <link>https://slad2019.github.com/buqing/posts/02-six-towns/</link>
+      <link>http://localhost:1313/buqing/posts/02-six-towns/</link>
       <pubDate>Sat, 18 May 2024 22:23:12 +0800</pubDate>
-      <guid>https://slad2019.github.com/buqing/posts/02-six-towns/</guid>
+      <guid>http://localhost:1313/buqing/posts/02-six-towns/</guid>
       <description>&lt;p&gt;写于2020年&lt;/p&gt;&#xA;&lt;h2 id=&#34;北魏和北魏六镇&#34;&gt;北魏和北魏六镇&lt;/h2&gt;&#xA;&lt;p&gt;对于中国历史的业余爱好者而言，北魏在历史上是一个非常重要的承前启后的朝代。自西晋五胡乱华以来，中国北方群雄逐鹿，各北方少数民族和汉族先后建立了二十多个割据政权。公元439年，由鲜卑族创建的北魏政权再度统一中国北方，实现了南北朝的对峙。&lt;/p&gt;</description>
     </item>
     <item>
       <title>不轻之缘起</title>
-      <link>https://slad2019.github.com/buqing/posts/01-introduction/</link>
+      <link>http://localhost:1313/buqing/posts/01-introduction/</link>
       <pubDate>Fri, 17 May 2024 21:53:01 +0800</pubDate>
-      <guid>https://slad2019.github.com/buqing/posts/01-introduction/</guid>
+      <guid>http://localhost:1313/buqing/posts/01-introduction/</guid>
       <description>&lt;p&gt;前段时间有机缘我想读一读《法华经》，其中第二十品是常不轻菩萨品，&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;……尔时，有一菩萨比丘，名常不轻。&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>你好，世界！</title>
-      <link>https://slad2019.github.com/buqing/posts/hello-world/</link>
+      <link>http://localhost:1313/buqing/posts/hello-world/</link>
       <pubDate>Mon, 13 May 2024 13:13:07 +0800</pubDate>
-      <guid>https://slad2019.github.com/buqing/posts/hello-world/</guid>
+      <guid>http://localhost:1313/buqing/posts/hello-world/</guid>
       <description>介绍 This is 粗体 text, and this is 强调 text. Visit the Hugo website!</description>
     </item>
   </channel>

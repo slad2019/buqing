@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 不轻——随写</title>
-    <link>https://slad2019.github.com/buqing/tags/</link>
+    <link>http://localhost:1313/buqing/tags/</link>
     <description>Recent content in Tags on 不轻——随写</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://slad2019.github.com/buqing/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/buqing/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
