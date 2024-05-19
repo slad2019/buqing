@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://slad2019.github.com/buqing/'
 languageCode = 'zh-cn'
 title = '不轻——随写'
 theme = 'fuji'
+
+[module]
+  [[module.mounts]]
+    source = 'static'
+    target = 'static/static'

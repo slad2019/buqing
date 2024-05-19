@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://slad2019.github.com/buqing/posts/</loc>
     <lastmod>2024-05-18T22:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://slad2019.github.com/buqing/</loc>
     <lastmod>2024-05-18T22:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/02-six-towns/</loc>
+    <loc>https://slad2019.github.com/buqing/posts/02-six-towns/</loc>
     <lastmod>2024-05-18T22:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/01_introduction/</loc>
+    <loc>https://slad2019.github.com/buqing/posts/01_introduction/</loc>
     <lastmod>2024-05-17T21:53:01+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/hello-world/</loc>
+    <loc>https://slad2019.github.com/buqing/posts/hello-world/</loc>
     <lastmod>2024-05-13T13:13:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://slad2019.github.com/buqing/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://slad2019.github.com/buqing/tags/</loc>
   </url>
 </urlset>
