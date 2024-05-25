@@ -10,7 +10,7 @@ draft = false
 
 ---
 
-![alt text](../../static/img/03-hisao-kimura-1/51T9CXaDgQL._SY466_.jpg)
+![51T9CXaDgQL._SY466_](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/51T9CXaDgQL._SY466_.jpg)
 
 这是第二次世界大战期间日本间谍木村肥佐生(Hisao Kimura)的迷人故事，他乔装打扮进入西藏执行间谍任务，却不知道战争实际上已经结束。他最终抵达噶伦堡，伪装成蒙古僧侣待了几年时间。本书也讲述了他在噶伦堡的故事。
 

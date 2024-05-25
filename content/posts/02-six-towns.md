@@ -33,7 +33,8 @@ draft = false
 ||  哈拉沟古城	|河北省尚义县三工地镇土城子村|
 |怀荒镇	|张家口张北县|（尚未找到城址）	 |
 
-![20240525213421](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525213421.png)
+![20240525214155](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214155.png)
+
 **图1 各古城遗址在地图上的位置**
 
 作为业余的历史爱好者，笔者显然无法考证这些争议，留待专业人士判断。笔者花了一周的时间，自驾寻访这些遗址，抒发一些怀古的幽思吧。对于业余人员，按照导航找到这些地址已属不易，不少遗址已经几乎湮灭，许多地方都成为农田或者草原，业余爱好者甚至身在其中而不知何处。经过几处遗址，笔者发现，最好的游历方式，是参考专业人士绘出的古城图样，然后比对谷歌地图的卫星照片。以下逐个说明笔者探访的古城的情况。
@@ -41,19 +42,19 @@ draft = false
 ### 根子场古城
 根子场这个地名在现在的导航软件上已经找不到了，多篇论文或者网络文章记录根子场古城位置在苏独仑乡东南5千米处。按照这样的指导，业余人士根本无从下手。笔者先导航到苏独仑乡，在乡上加油站询问[^3]才得知，以前的根子场，现在叫新光村，于是按照导航新光村顺利到达[^4]。去新光村有部分在修路，基本上小轿车可以通行。到了村子之后，村民告知古城就在村子南面。寻着方向找去，就可以看到国家重点文物的标志，此标志在古城东城北墙处。
 
-![alt text](../../static/img/02-six-towns/image-1.png)
+![20240525214259](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214259.png)
 
 **图2 沃野镇古城遗址国家重点文物（2006年）**
 
 通过论文和卫星地图可以帮助在现场辨认古城：
 
-![alt text](../../static/img/02-six-towns/image-2.png)
+![20240525214332](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214332.png)
 
 **图3根子场古城平面图（来自注2）**
 
 古城大约东西1200米，南北500米。
 
-![alt text](../../static/img/02-six-towns/image-3.png)
+![20240525214359](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214359.png)
 
 **图4 根子场古城卫星地图（谷歌卫星地图7/9/2019，城北墙中心点41°08’34.39”N，108°47’41.72”E）**
 
@@ -63,19 +64,19 @@ draft = false
 
 固阳县的城圐圙村在苹果手机的地图上能够看到，可以以此为目的地导航。如果使用其他软件，网上有攻略，可以导航仁太和。从固阳县往北按导航延210国道到达仁太和乡继续往前，就有一个怀朔古城的指示牌，在一条水泥路右转，基本上沿着这条路走10公里就可以到了，左转离开水泥大路过一座小桥就可以看到村庄了。不用进村庄，路边有一块很大的石头牌子，上面隐约可以看到“怀朔”字样。牌子前有条机耕道[^6]可以左拐，往前大约500米就可以看到国家重点文物的标识，标识位置在古城的东北角外。
 
-![alt text](../../static/img/02-six-towns/image-4.png)
+![20240525214422](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214422.png)
 
 **图5 怀朔镇故城遗址国家重点文物（2006年）**
 
 同样可以对照论文示意图和卫星地图：
 
-![alt text](../../static/img/02-six-towns/image-5.png)
+![20240525214501](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214501.png)
 
 **图6 白灵淖城圐圙古城平面图（来自注2）**
 
 此城形状不太规则，大约呈现1千米见方。
 
-![alt text](../../static/img/02-six-towns/image-6.png)
+![20240525214524](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214524.png)
 
 **图7 城圐圙古城卫星地图（谷歌卫星地图11/7/2019，城东北角41°12’43.59”N，110°08’17.59”E）**
 
@@ -89,13 +90,13 @@ draft = false
 
 对照论文中的平面图：
 
-![alt text](../../static/img/02-six-towns/image-7.png)
+![20240525214553](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214553.png)
 
 **图8 二份子古城平面图（来自注2）**
 
 除东北角因躲避河道之外，古城非常方正，长宽均约750米。
 
-![alt text](../../static/img/02-six-towns/image-8.png)
+![20240525214645](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214645.png)
 
 **图9 二份子古城卫星地图（谷歌地图4/29/2013，古城西北角41°21’51.96“N，110°41’42.16”E）**
 
@@ -107,19 +108,19 @@ draft = false
 
 对照论文中的平面图：
 
-![alt text](../../static/img/02-six-towns/image-9.png)
+![20240525214711](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214711.png)
 
 **图10 希拉穆仁城圐圙古城平面图（来自注2）**
 
 这是所有古城中最复杂的一个，城外西侧有日字型小城，城南面还有一段护墙。这个城也比较小，大城的东西向和南北向均只有400多米。这倒是符合武川城又称“里城”的史料。
 
-![alt text](../../static/img/02-six-towns/image-10.png)
+![20240525214739](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214739.png)
 
 **图11 希拉穆仁城圐圙古城卫星地图（谷歌卫星地图5/15/2011，城西北角41°19’37.04”N，111°11’24.82”E）**
 
 此处是一片草原，古城的城墙相对保留完整，城墙边上还能看到马面。城的北面就是召河，河滩的草地上有放牧的马和羊，风景秀丽。城西北角高处现在竖起了一顶敖包。
 
-![alt text](../../static/img/02-six-towns/image-11.png)
+![20240525214804](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214804.png)
 
 **图12 希拉穆仁城圐圙古城西北角的敖包**
 
@@ -127,19 +128,19 @@ draft = false
 
 乌兰花镇土城子村在导航软件上都能找到。乌兰花镇即是四子王旗旗政府所在地，土城子村离乌兰花镇不远。土城子是这类古城遗址的另一类称呼，在内蒙古区域内能够搜索到不少土城子村。乌兰花镇的土城子村没有争议，学界公认这就是抚冥镇的遗址。这是内蒙古自治区文物保护单位，其标识在东城北墙中间位置，土城子村边上。
 
-![alt text](../../static/img/02-six-towns/image-12.png)
+![20240525214827](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214827.png)
 
 **图13 抚冥镇故城址内蒙古自治区文物保护单位（2007年）**
 
 对照论文中的平面图：
 
-![alt text](../../static/img/02-six-towns/image-13.png)
+![20240525214847](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214847.png)
 
 **图14 乌兰花镇土城子古城平面图（来自注2）**
 
 这个古城的结构稍微有点复杂，由东西两座城相连而成。东城为主城，边长大约900米；西城大约边长为1100米。
 
-![alt text](../../static/img/02-six-towns/image-14.png) 
+![20240525214917](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214917.png)
 
 **图15 乌兰花镇土城子村卫星地图（谷歌卫星地图6/18/2019，西城西墙和东城北墙交界点41°28’02.75”N，111°44’40.95”E）**
 
@@ -150,19 +151,19 @@ draft = false
 
 古城平面图如下：
 
-![alt text](../../static/img/02-six-towns/image-15.png)
+![20240525214941](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214941.png)
 
 **图16 克里孟古城平面图（引自注2）**
 
 古城形状不太规则，东西大约1500米，南北400-600米之间。分成东西两座子城。韩勿拉河从古城中流过。
 
-![alt text](../../static/img/02-six-towns/image-16.png)
+![20240525214959](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525214959.png)
 
 **图17 克里孟古城卫星地图（谷歌卫星地图7/13/2013，东北角41°34’13.61”N，112°51’15.93”E）**
 
 这是此次游历过程中唯一一处被围起来的六镇古城，似乎当地政府准备对这个古城进行一些开发。克里孟是蒙语城墙的意思。这个古城在一片荒地上，城墙保存得相当完整，城内的瓦片、瓷片也最多，甚至有看到大型器物破碎的遗迹。卫星图上左边贯穿的是公路，重点文物保护单位的牌子在公路和城墙交界处道路西面。
 
-![alt text](../../static/img/02-six-towns/image-17.png)
+![20240525215019](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215019.png)
 
 **图18 克里孟古城全国重点文物保护单位（2007年）**
 
@@ -172,19 +173,19 @@ draft = false
 
 古城平面图如下：
 
-![alt text](../../static/img/02-six-towns/image-18.png)
+![20240525215041](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215041.png)
 
 **图19尚义县哈拉沟古城平面图**
 
 哈拉沟古城呈不规则形状，大致1千米见方。
 
-![alt text](../../static/img/02-six-towns/image-19.png)
+![20240525215103](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215103.png)
 
 **图20 尚义县哈拉沟古城卫星地图（谷歌卫星地图9/5/2019，西南角41°15’10.55”N，113°57’13.59”E）**
 
 卫星地图中间的村庄就是土城子村，右侧也是土城子村的一部分。卫星地图上淡蓝的斜线就是内蒙古和河北的省界。古城北面的河流已经干涸。古城南面以林地和荒地为主，北面种了庄稼。东面城墙很宽，上面变成了一条土路，从右侧的民居间有条路可以上去。东北角的斜边特别明显，上面有一块立好又被毁的文物保护单位标识。
 
-![alt text](../../static/img/02-six-towns/image-20.png)
+![20240525215128](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215128.png)
 
 **图21哈拉沟古城立好又推到的标识，依稀可见柔玄镇字样**
 
@@ -196,13 +197,13 @@ draft = false
 
 古城的平面图如下：
 
-![alt text](../../static/img/02-six-towns/image-21.png)
+![20240525215152](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215152.png)
 
 **图22 和林格尔县土城子古城平面示意图[^8]**
 
 古城的形状很不规则，各个时代的古城范围也不一样。可以在博物馆读到更具体的描述。
 
-![alt text](../../static/img/02-six-towns/image-22.png)
+![20240525215217](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215217.png)
 
 **图23 盛乐古城卫星地图（谷歌地图2/13/2018）**
 
@@ -214,21 +215,21 @@ draft = false
 
 大同博物馆是当地精心打造的旅游名片之一，博物馆中有北魏时期司马金龙墓、宋绍祖墓出土的大量文物，讲述了拓跋鲜卑在平城时期的历史。
 
-![alt text](../../static/img/02-six-towns/image-23.png)
+![20240525215242](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215242.png)
 
 **图24 大同博物馆：北魏时期当地玻璃工坊制造的玻璃器皿**
 
-![alt text](../../static/img/02-six-towns/image-24.png)
+![20240525215317](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215317.png)
 
 **图25 大同博物馆：北魏时期的陶器，在古城遗址可以看到类似花纹的陶片**
  
-![alt text](../../static/img/02-six-towns/image-25.png)
+![20240525215347](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215347.png)
 
 **图26 大同博物馆：北魏时期的佛像雕塑**
 
 作为历史爱好者，每到一地一定会访问博物馆，内蒙古博物馆是必到之地。博物馆中的“草原雄风”馆陈列了内蒙古古代民族史，展出草原先民、东胡、匈奴、鲜卑、突厥、契丹等古代民族的文物精品，其中突出新石器时代红山文化和辽文化的历史。而“草原天骄”馆陈列古代蒙古族通史，以成吉思汗和大元王朝为点，展示从蒙古族起源到蒙元时代再到明清时期近千年的完整脉络。
 
-![alt text](../../static/img/02-six-towns/image-26.png)
+![20240525215409](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215409.png)
 
 **图27 内蒙古博物馆镇馆之宝：匈奴鹰顶金冠饰**
 
@@ -242,7 +243,7 @@ draft = false
 - 包头 - 固阳县白灵淖乡城圐圙村（怀朔镇）- 达茂旗百灵庙镇（可在路上去五当召、固阳秦长城）（可在百灵庙镇参观百灵庙）
 - 达茂旗 - 武川县二份子乡二份子村 - 达茂旗希拉穆仁镇哈日乌苏村 - 呼和浩特（或武川，呼和浩特居住条件更好）
  
-![alt text](../../static/img/02-six-towns/image-27.png)
+![20240525215429](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215429.png)
 
 **图28 自驾路线上：呼和浩特——乌拉特前旗——包头——固阳——达茂旗——呼和浩特**
 
@@ -252,7 +253,7 @@ draft = false
 - 大同 - 内蒙古和林格尔县土城子村（盛乐古城、盛乐博物馆）- 呼和浩特（路上可去青冢/昭君博物院）
 - 在呼和浩特可去内蒙古博物馆
  
-![alt text](../../static/img/02-six-towns/image-28.png)
+![20240525215450](https://cdn.jsdelivr.net/gh/slad2019/gallery@main/blogs/pictures/20240525215450.png)
 
  **图29 自驾路线下：呼和浩特——四子王旗——察右后旗——乌兰察布——尚义——大同——呼和浩特**
 
